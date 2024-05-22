@@ -14,8 +14,8 @@ Data visualization is like a telescope for data. Just as astronomers use telesco
 
 </br>
 </br>
-<img src="https://www.bing.com/images/create/data-visualization-projects-presentation-visual-fo/1-664d8af8bf51420aba4d0af6f70c1c99?id=nzrLri4tBtv8VqlTxkpPAA%3D%3D&view=detailv2&idpp=genimg&idpclose=1&thid=OIG2.11VpygRQkoWkn.m7aThD&frame=sydedg&form=SYDBIC" alt="Data visualization is like a telescope for data. Just as astronomers use telescopes to observe and understand the universe, data scientists use visualizations to explore and comprehend complex datasets. Each chart, graph, and infographic acts as a lens, bringing hidden patterns and insights into focus. Through this lens, we can navigate the vast expanse of data, discovering new knowledge and making informed decisions." class="nofocus" tabindex="0" aria-label="Visual metaphor of turning data into visual insights, similar to discovering pearls from oysters" role="button">
 
-<img src="https://th.bing.com/th/id/OIG4.qP0zx9xJUs2CJ.ZhCYXB?w=1000&h=600&rs=1&pid=ImgDetMain" alt="Visual metaphor of data visualization as exploring the galaxy of information, uncovering hidden patterns and insights" class="nofocus" tabindex="0" aria-label="Visual metaphor of data visualization as exploring the galaxy of information, uncovering hidden patterns and insights" role="button">
+<img src="sandbox:/mnt/data/A_detailed_classroom_scene_where_data_scientists_a.png" alt="Data visualization is like exploring a vast galaxy of information. Just as astronomers use their instruments to study the stars and uncover the secrets of the universe, data scientists use visualization tools to illuminate complex datasets, revealing hidden patterns and insights. Through this lens, we can navigate the immense expanse of data, discovering new knowledge and making informed decisions that drive progress and innovation." class="nofocus" tabindex="0" aria-label="Visual metaphor of data visualization as exploring the galaxy of information, uncovering hidden patterns and insights" role="button">
+
 
 
