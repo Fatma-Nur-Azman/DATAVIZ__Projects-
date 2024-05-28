@@ -2,6 +2,10 @@
 
 This repository contains a comprehensive analysis of the Global Superstore sales data using Power BI. The analysis provides insights into product performance, customer segmentation, regional sales, and sales trends.
 
+## Project presentation file 
+
+- [Presentation](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/tree/main/DATAVIZ_03_POWER_BI_GLOBAL_SUPERSTOR/presentation)
+
 ## Project Overview
 
 The goal of this project is to:
