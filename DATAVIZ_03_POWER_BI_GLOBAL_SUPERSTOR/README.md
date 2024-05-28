@@ -6,6 +6,8 @@ This repository contains a comprehensive analysis of the Global Superstore sales
 
 - [Presentation](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/tree/main/DATAVIZ_03_POWER_BI_GLOBAL_SUPERSTOR/presentation)
 
+- [Project video](https://www.youtube.com/watch?v=qG7xQ4hZHmU&t=20s)
+
 ## Project Overview
 
 The goal of this project is to:
