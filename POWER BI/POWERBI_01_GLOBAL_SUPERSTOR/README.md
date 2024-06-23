@@ -1,49 +1,95 @@
-# Global Superstore Sales Analysis
+# 🌟 Global Superstore Report Project
 
-This repository contains a comprehensive analysis of the Global Superstore sales data using Power BI. The analysis provides insights into product performance, customer segmentation, regional sales, and sales trends.
+![Overview](./01_Overview.jpg)
 
-## Project presentation file 
+## 📌 Overview
 
-- [Presentation](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/tree/main/DATAVIZ_03_POWER_BI_GLOBAL_SUPERSTOR/presentation)
+Welcome to the **Global Superstore Report Project**! This project focuses on analyzing sales data from a global retail company. The dataset includes detailed information on product categories, customer segments, regions, and countries. The aim is to understand the company's performance and identify potential improvement opportunities through comprehensive data analysis and visualization.
 
-- [Project video](https://www.youtube.com/watch?v=qG7xQ4hZHmU&t=20s)
+## 📊 Dashboard Snapshots
 
-## Project Overview
+### Customer-Based Analysis
+![Customer-Based Analysis](./03_Customer_Based_Analysis.jpg)
 
-The goal of this project is to:
-- Understand the company's sales performance.
-- Identify potential areas for improvement.
-- Provide actionable insights based on data analysis.
+### Region-Based Analysis
+![Region-Based Analysis](./04_Region_Based_Analysis.jpg)
 
-## Analysis Sections
+### Product-Based Analysis
+![Product-Based Analysis](./02_Product_Based_Analysis.jpg)
 
-1. **Product-Based Analysis**: Evaluates the sales and profitability of different product categories.
-2. **Customer Insights**: Analyzes customer segments to identify high-value customers and underperforming segments.
-3. **Regional Performance**: Assesses sales performance across different regions.
-4. **Trend Analysis**: Examines sales trends over time to highlight seasonal patterns.
+### Thank You
+![Thank You](./05_Thank_You.jpg)
 
-## Key Findings
+## 📁 Project Structure
 
-- **Most Profitable Products**: Technology category with a profitability of 45.2%.
-- **Underperforming Category**: Furniture category requires review of pricing and marketing strategies.
-- **Top-Performing Market**: Asia Pacific region with 32% of total sales.
-- **Sales Trends**: Notable sales spikes in Technology at the beginning and end of the year.
+Here's a breakdown of the project structure:
+
+- `global_superstore_analysis.ipynb`: The core Jupyter Notebook containing the comprehensive analysis.
+- `global_superstore.xlsx`: The dataset used for our analysis, filled with detailed sales data.
+- `README.md`: You're reading it! This file provides an overview and guidance for the project.
+- `LICENSE`: The licensing details for the project.
+- `Images/`: Contains all the dashboard snapshot images used in this README.
+
+## 📦 Installation
+
+To get started with this project, follow these steps:
+
+ **Clone the repository:**
+ 
+```bash
+git clone https://github.com/Fatma-Nur-Azman/global_superstore_report.git
+cd global_superstore_report
+```
+
+## 🚀 Usage
+To explore the Global Superstore data:
+
+Open the Jupyter Notebook:
+```bash
+jupyter notebook global_superstore_analysis.ipynb
+```
+Run the cells in the notebook to perform the analysis.
+
+## 🎯 Goals
+This project aims to:
+
+Analyze sales data by product, customer, region, and trend.
+Identify key factors affecting sales performance.
+Provide actionable insights for business managers and stakeholders.
 
 ## About Me
 
-I am Fatma Nur Azman, a Data Analyst with 20 years of experience in data science and visualization.
+Hello! I'm Fatma NUr AZMAN, a data analytics and data science enthusiast.
+
+📊 Data Detective: Getting lost in data and turning it into meaningful insights is my hobby. Playing with data and deciphering its language is my superpower!
+
+☕ Coffee Lover: I always have a cup of coffee by my side while analyzing data. Good coffee fuels my creativity.
+
+🎵 Music Enthusiast: Light jazz music playing in the background keeps me motivated while analyzing data. Music helps me stay focused and productive.
+
+🧩 Puzzle Master: I solve puzzles to keep my mind active. This helps improve my analytical thinking skills.
+
+📧 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/fatma-nur-azman/)
 - [GitHub](https://github.com/Fatma-Nur-Azman)
 - [Website](https://fatmanurazman.vercel.app/)
+- [Kaggle](https://www.kaggle.com/fnurazman)
+- [Medium](https://medium.com/@azmanfnur)
+- [Tableau Public](https://public.tableau.com/app/profile/fatma.nur.azman/vizzes)
+  
+Are you ready to embark on new journeys in the world of data analytics together? 🚴‍♀️🚴‍♂️
 
-## Project Documentation
+## 📜 License
 
-Detailed project documentation and datasets are available in the repository. For more information, refer to the [Project Documentation](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/tree/main/DATAVIZ_03_POWER_BI_GLOBAL_SUPERSTOR)
+This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-## Usage
 
-Clone the repository and open the Power BI file to explore the dashboards and analysis.
 
-```sh
-git clone https://github.com/Fatma-Nur-Azman/Global-Superstore-Analysis.git
+## 🤝 Contributing
+We welcome contributions! If you have suggestions, improvements, or find bugs, feel free to fork the repository and submit a pull request.
+
+## 🌟 Acknowledgements
+Special thanks to the data providers.
+Gratitude to the open-source community for providing the tools and resources.
+Thank you for visiting our project! We hope you find it insightful and engaging. 👩‍💼
