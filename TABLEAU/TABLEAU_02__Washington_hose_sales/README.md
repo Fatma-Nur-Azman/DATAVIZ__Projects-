@@ -3,9 +3,6 @@
 ## 📊 Tableau Public Link
 [View on Tableau Public](https://public.tableau.com/app/profile/fatma.nur.azman/viz/WASHINGTONHOUSESALESWILLYOUSEETHETRUTH/WASHINGTONHOUSESALESWILLYOUSEETHETRUTH)
 
-## 📁 GitHub Repository
-[GitHub Repository](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/tree/main/TABLEAU/TABLEAU_02__Washington_hose_sales)
-
 ## Project Overview
 
 This Tableau dashboard provides an in-depth analysis of house sales in Washington. The main goal is to visualize various aspects of house sales data, including price distribution, bathroom and bedroom distributions, and the impact of different variables such as year built, square footage, and lot size on house prices.
@@ -39,7 +36,7 @@ This Tableau dashboard provides an in-depth analysis of house sales in Washingto
 
 ### Visualization
 
-![Washington House Sales](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/blob/main/TABLEAU/TABLEAU_02__Washington_hose_sales/01_WASHINGTON%20HOUSE%20SALES.jpeg?raw=true)
+![Washington House Sales](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/blob/main/TABLEAU/TABLEAU_02__Washington_hose_sales/01_WASHINGTON%20HOUSE%20SALES.jpeg)
 
 ## About Me
 
