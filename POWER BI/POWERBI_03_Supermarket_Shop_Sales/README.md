@@ -1,31 +1,28 @@
-# 🌟 Global Superstore Report Project
+# 🛒 Supermarket Shop Sales Dashboard
 
-![Overview](./01_Overview.jpg)
+![Sales Dashboard](./01_Sales_Dashboard.jpeg)
 
 ## 📌 Overview
 
-Welcome to the **Global Superstore Report Project**! This project focuses on analyzing sales data from a global retail company. The dataset includes detailed information on product categories, customer segments, regions, and countries. The aim is to understand the company's performance and identify potential improvement opportunities through comprehensive data analysis and visualization.
+Welcome to the **Supermarket Shop Sales Dashboard** project! This project focuses on analyzing sales data from a supermarket shop. The dashboard includes detailed information on sales, profit, product performance, sales types, and payment modes. The aim is to provide a comprehensive view of the shop's sales performance through data visualization.
 
-## 📊 Dashboard Snapshots
+## 📊 Dashboard Features
 
-### Customer-Based Analysis
-![Customer-Based Analysis](./03_Customer_Based_Analysis.jpg)
-
-### Region-Based Analysis
-![Region-Based Analysis](./04_Region_Based_Analysis.jpg)
-
-### Product-Based Analysis
-![Product-Based Analysis](./02_Product_Based_Analysis.jpg)
-
-### Thank You
-![Thank You](./05_Thank_You.jpg)
+- **Total Sales**: Displays the total sales in thousands (K).
+- **Total Profit**: Displays the total profit in thousands (K).
+- **Profit Percentage**: Shows the percentage of profit.
+- **Monthly Sales and Profit**: Visualizes the sum of total selling value and profit month by month.
+- **Top Products**: Lists the top-selling products.
+- **Sales Type Distribution**: Pie chart showing the distribution between direct sales and online sales.
+- **Payment Mode Distribution**: Pie chart showing the distribution between online and cash payments.
+- **Category Performance**: Tree map displaying the performance of different product categories.
 
 ## 📁 Project Structure
 
 Here's a breakdown of the project structure:
 
-- `global_superstore_analysis.ipynb`: The core Jupyter Notebook containing the comprehensive analysis.
-- `global_superstore.xlsx`: The dataset used for our analysis, filled with detailed sales data.
+- `sales_dashboard_analysis.ipynb`: The core Jupyter Notebook containing the comprehensive analysis.
+- `Sales-Dashboard-practice-file.xlsx`: The dataset used for our analysis, filled with detailed sales data.
 - `README.md`: You're reading it! This file provides an overview and guidance for the project.
 - `LICENSE`: The licensing details for the project.
 - `Images/`: Contains all the dashboard snapshot images used in this README.
@@ -37,26 +34,24 @@ To get started with this project, follow these steps:
  **Clone the repository:**
  
 ```bash
-git clone https://github.com/Fatma-Nur-Azman/global_superstore_report.git
-cd global_superstore_report
+git clone https://github.com/Fatma-Nur-Azman/supermarket_sales_dashboard.git
+cd supermarket_sales_dashboard
 ```
-
 ## 🚀 Usage
 To explore the Global Superstore data:
 
 Open the Jupyter Notebook:
 ```bash
-jupyter notebook global_superstore_analysis.ipynb
+jupyter notebook sales_dashboard_analysis.ipynb
 ```
 Run the cells in the notebook to perform the analysis.
 
 ## 🎯 Goals
 This project aims to:
 
-Analyze sales data by product, customer, region, and trend.
+Analyze supermarket sales data by product, category, and payment mode.
 Identify key factors affecting sales performance.
-Provide actionable insights for business managers and stakeholders.
-
+Provide actionable insights for supermarket managers and stakeholders.
 ## About Me
 
 Hello! I'm Fatma NUr AZMAN, a data analytics and data science enthusiast.
@@ -93,3 +88,7 @@ We welcome contributions! If you have suggestions, improvements, or find bugs, f
 Special thanks to the data providers.
 Gratitude to the open-source community for providing the tools and resources.
 Thank you for visiting our project! We hope you find it insightful and engaging. 👩‍💼
+
+
+
+

@@ -1,31 +1,31 @@
-# 🌟 Global Superstore Report Project
+# 🦠 Coronavirus COVID-19 Report
 
-![Overview](./01_Overview.jpg)
+![Overview](./01_Overview.jpeg)
 
 ## 📌 Overview
 
-Welcome to the **Global Superstore Report Project**! This project focuses on analyzing sales data from a global retail company. The dataset includes detailed information on product categories, customer segments, regions, and countries. The aim is to understand the company's performance and identify potential improvement opportunities through comprehensive data analysis and visualization.
+This dataset contains data collected to track the impact and spread of the COVID-19 pandemic worldwide. It includes daily recorded cases, deaths, recoveries, and other relevant information at the country, city, and regional levels from the beginning of the pandemic. Such data is used by health organizations, governments, and researchers to understand the dynamics of the pandemic, develop intervention strategies, and optimize public health measures.
 
 ## 📊 Dashboard Snapshots
 
-### Customer-Based Analysis
-![Customer-Based Analysis](./03_Customer_Based_Analysis.jpg)
+### Summary
+![Summary](./02_Summary.jpeg)
 
-### Region-Based Analysis
-![Region-Based Analysis](./04_Region_Based_Analysis.jpg)
+### Country/Region Analysis
+![Country/Region](./03_Country_Region.jpeg)
 
-### Product-Based Analysis
-![Product-Based Analysis](./02_Product_Based_Analysis.jpg)
+### Trends Analysis
+![Trends](./04_Trends.jpeg)
 
 ### Thank You
-![Thank You](./05_Thank_You.jpg)
+![Thank You](./05_Thank_You.jpeg)
 
 ## 📁 Project Structure
 
 Here's a breakdown of the project structure:
 
-- `global_superstore_analysis.ipynb`: The core Jupyter Notebook containing the comprehensive analysis.
-- `global_superstore.xlsx`: The dataset used for our analysis, filled with detailed sales data.
+- `covid_19_analysis.pbix`: The Power BI file containing the comprehensive analysis.
+- `ds-4_covid_19.csv`: The dataset used for our analysis, filled with detailed COVID-19 data.
 - `README.md`: You're reading it! This file provides an overview and guidance for the project.
 - `LICENSE`: The licensing details for the project.
 - `Images/`: Contains all the dashboard snapshot images used in this README.
@@ -37,25 +37,24 @@ To get started with this project, follow these steps:
  **Clone the repository:**
  
 ```bash
-git clone https://github.com/Fatma-Nur-Azman/global_superstore_report.git
-cd global_superstore_report
+git clone https://github.com/Fatma-Nur-Azman/covid_19_analysis_dashboard.git
+cd covid_19_analysis_dashboard
 ```
-
 ## 🚀 Usage
 To explore the Global Superstore data:
 
 Open the Jupyter Notebook:
 ```bash
-jupyter notebook global_superstore_analysis.ipynb
+jupyter notebook covid_19_analysis.pbix
 ```
 Run the cells in the notebook to perform the analysis.
 
 ## 🎯 Goals
 This project aims to:
 
-Analyze sales data by product, customer, region, and trend.
-Identify key factors affecting sales performance.
-Provide actionable insights for business managers and stakeholders.
+Visualize the spread and impact of COVID-19 globally.
+Analyze trends in cases, deaths, and recoveries over time.
+Provide actionable insights for health organizations and policymakers.
 
 ## About Me
 
@@ -88,8 +87,3 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## 🤝 Contributing
 We welcome contributions! If you have suggestions, improvements, or find bugs, feel free to fork the repository and submit a pull request.
-
-## 🌟 Acknowledgements
-Special thanks to the data providers.
-Gratitude to the open-source community for providing the tools and resources.
-Thank you for visiting our project! We hope you find it insightful and engaging. 👩‍💼

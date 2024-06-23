@@ -1,31 +1,34 @@
-# 🌟 Global Superstore Report Project
+# 🚗 Car Sales Norway Report
 
-![Overview](./01_Overview.jpg)
+![Overview](./01_Overview.jpeg)
 
 ## 📌 Overview
 
-Welcome to the **Global Superstore Report Project**! This project focuses on analyzing sales data from a global retail company. The dataset includes detailed information on product categories, customer segments, regions, and countries. The aim is to understand the company's performance and identify potential improvement opportunities through comprehensive data analysis and visualization.
+Welcome to the **Car Sales Norway Report**! This project focuses on analyzing car sales data in Norway. The dataset includes detailed information on car models, manufacturers, market share, and revenue. The aim is to understand the performance of various car brands in the Norwegian market and identify potential insights through comprehensive data analysis and visualization.
 
 ## 📊 Dashboard Snapshots
 
-### Customer-Based Analysis
-![Customer-Based Analysis](./03_Customer_Based_Analysis.jpg)
+### Summary
+![Summary](./02_Summary.jpeg)
 
-### Region-Based Analysis
-![Region-Based Analysis](./04_Region_Based_Analysis.jpg)
+### Price Analysis
+![Price Analysis](./03_Price_Analysis.jpeg)
 
-### Product-Based Analysis
-![Product-Based Analysis](./02_Product_Based_Analysis.jpg)
+### Detailed Sales Analysis
+![Detailed Sales Analysis](./04_Detailed_Sales_Analysis.jpeg)
+
+### Trends Analysis
+![Trends Analysis](./05_Trend_Analysis.jpeg)
 
 ### Thank You
-![Thank You](./05_Thank_You.jpg)
+![Thank You](./06_Thank_You.jpeg)
 
 ## 📁 Project Structure
 
 Here's a breakdown of the project structure:
 
-- `global_superstore_analysis.ipynb`: The core Jupyter Notebook containing the comprehensive analysis.
-- `global_superstore.xlsx`: The dataset used for our analysis, filled with detailed sales data.
+- `car_sales_analysis.ipynb`: The core Jupyter Notebook containing the comprehensive analysis.
+- `cars_dataset.xlsx`: The dataset used for our analysis, filled with detailed sales data.
 - `README.md`: You're reading it! This file provides an overview and guidance for the project.
 - `LICENSE`: The licensing details for the project.
 - `Images/`: Contains all the dashboard snapshot images used in this README.
@@ -37,25 +40,24 @@ To get started with this project, follow these steps:
  **Clone the repository:**
  
 ```bash
-git clone https://github.com/Fatma-Nur-Azman/global_superstore_report.git
-cd global_superstore_report
+git clone https://github.com/Fatma-Nur-Azman/car_sales_norway_report.git
+cd car_sales_norway_report
 ```
-
 ## 🚀 Usage
 To explore the Global Superstore data:
 
 Open the Jupyter Notebook:
 ```bash
-jupyter notebook global_superstore_analysis.ipynb
+jupyter notebook car_sales_analysis.ipynb
 ```
 Run the cells in the notebook to perform the analysis.
 
 ## 🎯 Goals
 This project aims to:
 
-Analyze sales data by product, customer, region, and trend.
-Identify key factors affecting sales performance.
-Provide actionable insights for business managers and stakeholders.
+Analyze car sales data by brand, model, and price.
+Identify key factors affecting market share and revenue.
+Provide actionable insights for car manufacturers and stakeholders.
 
 ## About Me
 
@@ -93,3 +95,7 @@ We welcome contributions! If you have suggestions, improvements, or find bugs, f
 Special thanks to the data providers.
 Gratitude to the open-source community for providing the tools and resources.
 Thank you for visiting our project! We hope you find it insightful and engaging. 👩‍💼
+
+
+
+
