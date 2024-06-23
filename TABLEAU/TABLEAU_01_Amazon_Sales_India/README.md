@@ -3,9 +3,7 @@
 
 Welcome to my collection of Tableau projects! Here, you will find various data visualization and analysis projects created using Tableau. Each project aims to provide insights into different datasets through interactive dashboards and visualizations.
 
-## 📁 Project Structure
-
-### Projects Overview
+## 📊 Tableau Public Link
 
 - **[Tableau Amazon Sales India Dashboard](https://public.tableau.com/app/profile/fatma.nur.azman/viz/Amazon_Sales_India_17191681786360/Story1)**
   - This dashboard provides an analysis of Amazon sales data in India. It includes multiple stories and visualizations to offer a comprehensive view of the data.
