@@ -15,22 +15,22 @@ Welcome to my collection of Tableau projects! Here, you will find various data v
 #### Amazon Sales India Dashboard
 
 1. **Overview**
-   ![Overview](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/blob/main/POWER%20BI/Tableau/01_Overview.jpeg?raw=true)
+   ![Overview](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/blob/main/TABLEAU/TABLEAU_01_Amazon_Sales_India/01_Overview.jpeg?raw=true)
    - Goal: Understand how prices have changed over time in the competitive environment in India and use this knowledge to inform product pricing decisions.
    - Key Insights: The most sold product categories are set, kurta, western dress, and top.
 
 2. **Transportation Story**
-   ![Transportation Story](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/blob/main/POWER%20BI/Tableau/02_Transportation_Story.jpeg?raw=true)
+   ![Transportation Story](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/blob/main/TABLEAU/TABLEAU_01_Amazon_Sales_India/02_Transportation_Story.jpeg?raw=true)
    - Focuses on the top states by quantity and category, ship service level, and quantity by courier status and category.
    - Key Insights: Maharashtra has the highest quantity shipped, and 94.21% of products are in shipped status.
 
 3. **Monthly Price and Product Type Sales Analysis**
-   ![Monthly Price and Product Type Sales Analysis](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/blob/main/POWER%20BI/Tableau/03_Monthly_Price_and_Product_Type_Sales_Analysis.jpeg?raw=true)
+   ![Monthly Price and Product Type Sales Analysis](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/blob/main/TABLEAU/TABLEAU_01_Amazon_Sales_India/03_Monthly_Price_and_Product_Type_Sales_Analysis.jpeg?raw=true)
    - Analyzes the monthly sales price by category and size.
    - Key Insights: The set category has the highest weekly sales price, and the least sold sizes are 6 XL, 5 XL, and 4 XL.
 
 4. **Product Sales Story**
-   ![Product Sales Story](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/blob/main/POWER%20BI/Tableau/04_Product_Sales_Story.jpeg?raw=true)
+   ![Product Sales Story](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/blob/main/TABLEAU/TABLEAU_01_Amazon_Sales_India/04_Product_Sales_Story.jpeg?raw=true)
    - Provides detailed sales trends by week and category.
    - Key Insights: A significant sales drop is observed after June 6th, especially in the last week. The decline continues for three weeks, with all products, except for the set category, falling below the average price.
 
