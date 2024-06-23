@@ -1,5 +1,5 @@
-🎬 Amazon Prime Video Analysis
-📊 Tableau Public Link
+# 🎬 Amazon Prime Video Analysis
+
 ## 📊 Tableau Public Link
 [View on Tableau Public](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/blob/main/TABLEAU/TABLEAU_03__Amazon-Prime/01_Amazon_Prime_Video.jpeg)
 
