@@ -1,7 +1,7 @@
 # 🍅 Rotten Tomatoes Analysis
 ## 📊 Tableau Public Link
 
-![View on Tableau Public](https://public.tableau.com/app/profile/fatma.nur.azman/viz/WhattrendscanbediscoveredinRottenTomatoesratingsacrossdifferentgenresanddirectors/Story1)
+[View on Tableau Public](https://public.tableau.com/app/profile/fatma.nur.azman/viz/WhattrendscanbediscoveredinRottenTomatoesratingsacrossdifferentgenresanddirectors/Story1)
 
 ## Project Overview
 This Tableau dashboard provides an in-depth analysis of Rotten Tomatoes data. The main goal is to visualize various aspects of movie and TV show ratings, including the number of movies and TV shows released over the years, popular genres, and the distribution of critic and audience ratings.
