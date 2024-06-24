@@ -26,7 +26,7 @@ Compares the ratings given by critics and audiences for various movies and TV sh
 - The Tomatometer score helps in understanding the critical reception of movies and TV shows, with a score above 60% indicating positive reviews.
 - 
 ## Visualization
-![Rotten Tomatoes Analysis]([https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/blob/main/TABLEAU/TABLEAU_03__Amazon-Prime/01_Amazon_Prime_Video.jpeg](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/blob/main/TABLEAU/TABLEAU_05_Rotten_Tomatoes_Movies/01_Overview.jpeg))
+![Rotten Tomatoes Analysis](https://github.com/Fatma-Nur-Azman/DATAVIZ__Projects-/blob/main/TABLEAU/TABLEAU_05_Rotten_Tomatoes_Movies/01_Overview.jpeg)
 ## About Me
 
 Hello! I'm Fatma NUr AZMAN, a data analytics and data science enthusiast.
